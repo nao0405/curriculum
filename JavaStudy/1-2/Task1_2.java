@@ -28,12 +28,12 @@ public class Task1_2 {
         // ④ ③で作成した配列の2番目の要素を出力しなさい。
         System.out.println(strArray[1]);
         /* ⑤下記の処理について、何をしているのかコメントを記入してください。
-         *  [要素の値(初期値)のint型の配列intArray]
+         *  [int型の配列 intArrayに 10,20,30,40,50を要素の値として代入している]
          */
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // [int型の配列intArray2番目の要素と5番目の要素の合計]
+        // [int型の配列intArray2番目の要素と5番目の要素の合計を出力し、改行]
         System.out.println(intArray[1] + intArray[4]);
 
     }
