@@ -32,8 +32,8 @@ public class Study {
 
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
         /*
-         * [ここへ記述]
-         *
+         * LinkedHashMapクラスのMap型変数 shopMapの2番目に第一引数のキーにArrayListクラス shohinList変数の1の要素
+         *第二引数の値に180を代入
          */
         LinkedHashMap<String, Integer> shopMap = new LinkedHashMap<String, Integer>();
         shopMap.put(shohinList.get(0), 125);
