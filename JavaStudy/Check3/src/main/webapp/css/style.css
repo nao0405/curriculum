@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+header {
+	background-color: gray;
+}
+
+.login-top {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+	float: left;
+}
+
+.time {
+	margin-top: 15px;
+	float: left;
+	font-size: 10px;
+}
+
+.form-area {
+	padding-top: 50px;
+}
+
+.form {
+	padding-bottom: 50px;	
+}
+
+.list {
+    float: left;
+    text-align: center;
+    text-align-last: center;
+    margin-right: 20px;
+}
+
+.name {
+	margin-bottom: 10px;
+}
+
+.name-form {
+	margin-bottom: 10px;
+}
+
+.form {
+    float: left;
+}
+
+.clearfix::after { 
+    content: ''; 
+    display: block; 
+    clear: both;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+	clear: both;
+	background-color: gray;
+}
+
+.hoge {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
