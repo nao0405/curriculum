@@ -19,17 +19,14 @@ header {
 
 .form-area {
 	padding-top: 50px;
-}
-
-.form {
-	padding-bottom: 50px;	
+	padding-bottom: 50px;
 }
 
 .list {
     float: left;
-    text-align: center;
-    text-align-last: center;
     margin-right: 20px;
+   	text-align: center;
+    text-align-last: center;
 }
 
 .name {
@@ -42,6 +39,7 @@ header {
 
 .form {
     float: left;
+    padding-bottom: 50px;
 }
 
 .clearfix::after { 

@@ -16,13 +16,13 @@
     <div class="form-area">
         <dl class="list clearfix">
             <dt class="name"><strong>name</strong></dt>
-            <dt class="form"><strong>id</strong></dt>
+            <dt><strong>id</strong></dt>
         </dl>
         
-        <dl class="form clearfix">
+        <dd class="form clearfix">
             <dt class="name-form"><input type="text" name="name_form"></dt>
             <dt><input type="text" name="id_form"></dt>
-        </dl>
+        </dd>
     </div>
 
  <%@ include file="footer.jsp"%>
